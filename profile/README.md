@@ -27,7 +27,7 @@ Right now, this repository contains a few **initial examples and showcases**. Th
 Feel free to explore the current examples.
 
 * Check out the folders to see the showcases.
-* Use the **[Discussions](link-to-discussions-tab)** tab to ask questions or see what others are discussing. *(<- Ensure Discussions are enabled in repo settings)*
+* Use the **[Discussions](link-to-discussions-tab)** tab to ask questions or see what others are discussing.
 * Look at the **[Issues](link-to-issues-tab)** tab for specific requests or feedback on the examples.
 
 ## How You Can Contribute (Let's Build This Together!)
