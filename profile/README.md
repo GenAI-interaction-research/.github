@@ -18,13 +18,16 @@ Developing and studying GenAI-powered web applications often involves overcoming
 
 ## What's Here Now?
 
-Right now, this repository contains a few **initial examples and showcases**:
+This profile "GenAI-interaction-research" is organized in repositories. The repository **".github"** is a central repository that entails all relevant information beyond individual applications. The other repositories contain individual web applications that has been developed and that can be used by other researchers.
+
+At the moment there are the following developed web applications:
 - Recommendation agent: https://github.com/GenAI-interaction-research/podcast_recommender
 - Image generation and editing tool: https://github.com/GenAI-interaction-research/qualtrics_image_gen_edit
 
-- Moreover, there is a **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper https://github.com/GenAI-interaction-research/.github/blob/main/250424_GenAI_web_apps_v0.1.pdf.
+In the central ".github" repository there are the following documents:
+- A **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper https://github.com/GenAI-interaction-research/.github/blob/main/250424_GenAI_web_apps_v0.1.pdf.
 
-Other researchers are encouraged to share and provide their working web applications.
+Other researchers are encouraged to share and provide their working web applications as well as other ideas and work that might be of help for other researcher.
 
 **➡️ A Note on Ethics:** All applications should adhere to ethical principles, such as protecting user privacy and ensuring transparency when using GenAI. Proper handling of user data, compliance with GDPR or other regulations, and clear communication about AI usage are crucial.
 
