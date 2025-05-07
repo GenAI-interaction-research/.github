@@ -22,7 +22,7 @@ Right now, this repository contains a few **initial examples and showcases**:
 - Recommendation agent: https://github.com/GenAI-interaction-research/podcast_recommender
 - Image generation and editing tool: https://github.com/GenAI-interaction-research/qualtrics_image_gen_edit
 
-Moreover, there is a **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper .
+- Moreover, there is a **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper https://github.com/GenAI-interaction-research/.github/blob/main/250424_GenAI_web_apps_v0.1.pdf.
 
 Other researchers are encouraged to share and provide their working web applications.
 
