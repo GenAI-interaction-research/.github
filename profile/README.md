@@ -38,7 +38,7 @@ Feel free to explore the current examples and resources.
   
 ## How You Can Contribute
 
-Since this repository is just starting, contributions of all kinds are welcome! Here’s how you can help:
+Contributions of all kinds are welcome! Here’s how you can help:
 
 * **Share Your Examples:** Have a script, application design, or tool that integrates GenAI into web applications? Please **share it in the [Discussions](https://github.com/orgs/GenAI-interaction-research/discussions)** tab.
 * **Start Discussions:** Have a challenge or question about GenAI-powered web development? Start a discussion thread to connect with others.
@@ -48,7 +48,7 @@ Since this repository is just starting, contributions of all kinds are welcome! 
 
 ## Licensing
 
-Our intention is for resources shared here to be openly reusable. This project is licensed under the [MIT License](https://github.com/GenAI-interaction-research/.github/blob/main/LICENSE)..
+Resources shared here are openly reusable. This project is licensed under the [MIT License](https://github.com/GenAI-interaction-research/.github/blob/main/LICENSE)..
 
 ## Questions?
 
@@ -56,4 +56,4 @@ Feel free to open an Issue or start a Discussion thread!
 
 ---
 
-*Thanks for checking out this early-stage project! We look forward to building a valuable resource for GenAI-powered web development together.*
+*Thanks for checking out this project! We look forward to building a valuable resource for GenAI-powered web development together.*
