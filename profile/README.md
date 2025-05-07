@@ -1,4 +1,4 @@
-# Exploring Human-Generative AI Interaction Observation
+# Developing GenAI powered web applications for experimental research studies
 
 [![Status: WIP](https://img.shields.io/badge/status-work_in_progress-orange.svg)](CONTRIBUTING.md)  
 **Welcome! This repository aims to provide researchers with useful materials for building and studying GenAI-powered web applications.**
