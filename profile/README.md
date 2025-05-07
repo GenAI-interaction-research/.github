@@ -18,7 +18,7 @@ Developing and studying GenAI-powered web applications often involves overcoming
 
 ## What's Here Now?
 
-This profile "GenAI-interaction-research" is organized in repositories. The repository **".github"** is a central repository that entails all relevant information beyond individual applications. The other repositories contain individual web applications that has been developed and that can be used by other researchers.
+This profile "GenAI-interaction-research" is organized in repositories. The repository **".github"** is a central repository that entails all relevant information beyond individual applications. The other repositories contain individual web applications that has been developed and that can be used by other researchers. Particular instructions in how to implement the different individual applications can be found in each of the individual repositories.
 
 At the moment there are the following developed web applications:
 - **Recommendation agent**: https://github.com/GenAI-interaction-research/podcast_recommender
