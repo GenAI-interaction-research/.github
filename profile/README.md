@@ -24,17 +24,7 @@ Right now, this repository contains a few **initial examples and showcases**:
 
 Moreover, there is a **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper .
 
-These showcases are intended to illustrate the *types* of resources we hope the community might share and develop here, such as:
-
-* **Web Application Design Patterns:** Insights and best practices for integrating GenAI into web applications, such as common workflows for chatbots, real-time collaboration tools, or creative content generators.
-* **Code Snippets & Tool Examples:** Example implementations using popular technologies like:
-  - Frontend frameworks: **React**, **Vue.js**, **Svelte**.
-  - Backend frameworks: **Flask**, **Django**, **Express.js**.
-  - Generative AI APIs: **OpenAI API**, **Hugging Face Transformers**, or **custom ML models**.
-* **End-to-End Use Cases:** Tutorials for building a GenAI-powered application, such as:
-  - A dynamic Q&A chatbot for customer support.
-  - A content generation tool for blogs and marketing.
-  - Real-time collaboration tools powered by AI.
+Other researchers are encouraged to share and provide their working web applications.
 
 **➡️ A Note on Ethics:** All applications should adhere to ethical principles, such as protecting user privacy and ensuring transparency when using GenAI. Proper handling of user data, compliance with GDPR or other regulations, and clear communication about AI usage are crucial.
 
