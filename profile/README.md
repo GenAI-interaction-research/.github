@@ -9,7 +9,7 @@ The idea is to collaboratively build a collection of platform-agnostic methods, 
 
 Developing and studying GenAI-powered web applications often involves overcoming similar technical, ethical, and methodological challenges. This repository aims to help researchers:
 
-* Find additional help and support in how to develop and use GenAI web applications for research.
+* Getting help and support in how to develop and use GenAI web applications for research.
 * Getting access to examples and use-cases of GenAI web applications that work and can be easily integrated into own research projects.
 * Share early examples and approaches.
 * Find inspiration or starting points for application designs and tools.
