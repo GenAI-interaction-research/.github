@@ -1,6 +1,6 @@
 # Developing GenAI powered web applications for experimental research studies
 
-[![Status: WIP](https://img.shields.io/badge/status-work_in_progress-orange.svg)](CONTRIBUTING.md)  
+[![Status: Active Development](https://img.shields.io/badge/status-active_development-brightgreen.svg)](CONTRIBUTING.md)
 **Welcome! This repository aims to provide researchers with useful materials for building and studying GenAI-powered web applications.**
 
 The idea is to collaboratively build a collection of platform-agnostic methods, code snippets, tools, and analysis ideas useful for creating and studying how people engage with GenAI systems through web applications.
