@@ -47,11 +47,6 @@ Since this repository is just starting, contributions of all kinds are welcome! 
 * **Give Feedback:** Share your thoughts on the current examples or suggest improvements by opening an **[Issue](link-to-issues-tab)**.
 * **Contribute Code or Documentation:** As things develop, contributions via **Pull Requests** to refine code or documentation are welcome.
 
-Check out **[CONTRIBUTING.md](CONTRIBUTING.md)** for initial thoughts on how to contribute. *(<- You need to create this file, perhaps starting simply.)*
-
-## Community Guidelines
-
-Let’s create a welcoming and constructive environment for collaboration. Please follow the guidelines outlined in **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)**. *(<- You need to create this file.)*
 
 ## Licensing
 
