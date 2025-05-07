@@ -38,11 +38,11 @@ Feel free to explore the current examples and resources.
 * **Join the Conversation:** [Discussions](https://github.com/orgs/GenAI-interaction-research/discussions): Join the conversation, ask questions, or share ideas.
 * **Report Issues or Requests:** Use the Issue function in each individual repository to report bugs, request features, or track development.
   
-## How You Can Contribute (Let's Build This Together!)
+## How You Can Contribute
 
 Since this repository is just starting, contributions of all kinds are welcome! Here’s how you can help:
 
-* **Share Your Examples:** Have a script, application design, or tool that integrates GenAI into web applications? Please **share it in the [Discussions](link-to-discussions-tab)** tab.
+* **Share Your Examples:** Have a script, application design, or tool that integrates GenAI into web applications? Please **share it in the [Discussions](https://github.com/orgs/GenAI-interaction-research/discussions)** tab.
 * **Start Discussions:** Have a challenge or question about GenAI-powered web development? Start a discussion thread to connect with others.
 * **Give Feedback:** Share your thoughts on the current examples or suggest improvements by opening an **[Issue](link-to-issues-tab)**.
 * **Contribute Code or Documentation:** As things develop, contributions via **Pull Requests** to refine code or documentation are welcome.
