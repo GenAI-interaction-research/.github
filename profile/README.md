@@ -35,8 +35,8 @@ Right now, this repository contains a few **initial examples and showcases**. Th
 Feel free to explore the current examples and resources.
 
 * **Check Out the Examples:** Explore the folders to see the showcases and tutorials.
-* **Join the Conversation:** Use the **[Discussions](link-to-discussions-tab)** tab to ask questions or share your thoughts.
-* **Report Issues or Requests:** Use the **[Issues](link-to-issues-tab)** tab to provide feedback or request new resources.
+* **Join the Conversation:** [Discussions](https://github.com/GenAI-interaction-research/.github/discussions): Join the conversation, ask questions, or share ideas.
+* **Report Issues or Requests:** Use the [Issues](https://github.com/GenAI-interaction-research/.github/issues): Report bugs, request features, or track development.
 
 ## How You Can Contribute (Let's Build This Together!)
 
@@ -55,7 +55,7 @@ Let’s create a welcoming and constructive environment for collaboration. Pleas
 
 ## Licensing
 
-Our intention is for resources shared here to be openly reusable. A specific open license will be chosen and placed in the **[LICENSE](LICENSE)** file soon.
+Our intention is for resources shared here to be openly reusable. This project is licensed under the [MIT License](https://github.com/GenAI-interaction-research/.github/blob/main/LICENSE)..
 
 ## Questions?
 
