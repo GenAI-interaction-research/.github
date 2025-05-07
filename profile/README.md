@@ -1,12 +1,12 @@
 # Exploring Human-Generative AI Interaction Observation
 
-[![Status: WIP](https://img.shields.io/badge/status-work_in_progress-orange.svg)](CONTRIBUTING.md) **Welcome! This repository aims to become a shared space for researchers interested in observing human interaction with Generative AI.**
+[![Status: WIP](https://img.shields.io/badge/status-work_in_progress-orange.svg)](CONTRIBUTING.md) **Welcome! This repository aims to provide marketing researchers with useful materials in observing human interaction with Generative AI.**
 
-We're just getting started. The idea is to collaboratively build a collection of platform-agnostic methods, code snippets, tools, and analysis ideas useful for studying how people engage with GenAI systems.
+The idea is to collaboratively build a collection of platform-agnostic methods, code snippets, tools, and analysis ideas useful for studying how people engage with GenAI systems.
 
 ## Why This Repository?
 
-Studying human-GenAI interaction often involves similar technical or methodological hurdles. We hope this space can eventually help researchers:
+Studying human-GenAI interaction often involves similar technical or methodological hurdles. Hopefully, this space can eventually help researchers:
 
 * Share early examples and approaches that worked.
 * Find inspiration or starting points for study designs and tools.
