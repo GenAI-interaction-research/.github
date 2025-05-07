@@ -55,7 +55,7 @@ Let’s create a welcoming and constructive environment for collaboration. Pleas
 
 ## Licensing
 
-Our intention is for resources shared here to be openly reusable. A specific open license will be chosen and placed in the **[LICENSE](LICENSE)** file soon. *(<- You need to choose and create this file.)*
+Our intention is for resources shared here to be openly reusable. A specific open license will be chosen and placed in the **[LICENSE](LICENSE)** file soon.
 
 ## Questions?
 
