@@ -35,9 +35,9 @@ Right now, this repository contains a few **initial examples and showcases**. Th
 Feel free to explore the current examples and resources.
 
 * **Check Out the Examples:** Explore the folders and repositories to see the showcases and tutorials.
-* **Join the Conversation:** [Discussions]([https://github.com/GenAI-interaction-research/discussions](https://github.com/orgs/GenAI-interaction-research/discussions)): Join the conversation, ask questions, or share ideas.
+* **Join the Conversation:** [Discussions](https://github.com/orgs/GenAI-interaction-research/discussions): Join the conversation, ask questions, or share ideas.
 * **Report Issues or Requests:** Use the Issue function in each individual repository to report bugs, request features, or track development.
-
+  
 ## How You Can Contribute (Let's Build This Together!)
 
 Since this repository is just starting, contributions of all kinds are welcome! Here’s how you can help:
