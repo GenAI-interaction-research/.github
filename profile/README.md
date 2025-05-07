@@ -7,16 +7,24 @@ The idea is to collaboratively build a collection of platform-agnostic methods, 
 
 ## Why This Repository?
 
-Developing and studying GenAI-powered web applications often involves overcoming similar technical, ethical, and methodological challenges. This repository aims to help developers and researchers:
+Developing and studying GenAI-powered web applications often involves overcoming similar technical, ethical, and methodological challenges. This repository aims to help researchers:
 
-* Share early examples and approaches that worked.
+* Find additional help and support in how to develop and use GenAI web applications for research.
+* Getting access to examples and use-cases of GenAI web applications that work and can be easily integrated into own research projects.
+* Share early examples and approaches.
 * Find inspiration or starting points for application designs and tools.
 * Connect with others tackling similar challenges in GenAI-based web development.
 * Gradually build a useful set of community resources over time.
 
-## What's Here Now? (Initial Showcases)
+## What's Here Now?
 
-Right now, this repository contains a few **initial examples and showcases**. These are intended to illustrate the *types* of resources we hope the community might share and develop here, such as:
+Right now, this repository contains a few **initial examples and showcases**:
+- Recommendation agent: https://github.com/GenAI-interaction-research/podcast_recommender
+- Image generation and editing tool: https://github.com/GenAI-interaction-research/qualtrics_image_gen_edit
+
+Moreover, there is a **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper .
+
+These showcases are intended to illustrate the *types* of resources we hope the community might share and develop here, such as:
 
 * **Web Application Design Patterns:** Insights and best practices for integrating GenAI into web applications, such as common workflows for chatbots, real-time collaboration tools, or creative content generators.
 * **Code Snippets & Tool Examples:** Example implementations using popular technologies like:
