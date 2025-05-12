@@ -3,7 +3,7 @@
 [![Status: Active Development](https://img.shields.io/badge/status-active_development-brightgreen.svg)](CONTRIBUTING.md)
 **Welcome! This repository aims to provide researchers with useful materials for building and studying GenAI-powered web applications.**
 
-The idea is to collaboratively build a collection of platform-agnostic methods, code snippets, tools, and analysis ideas useful for creating and studying how people engage with GenAI systems through web applications.
+The idea is to collaboratively build a collection of platform-agnostic methods, code snippets, tools, and analysis ideas useful for creating and studying how people engage with GenAI systems through web applications. This GitHub is related to the methodology paper that can be accessed here: https://github.com/GenAI-interaction-research/.github
 
 ## Why This Repository?
 
@@ -29,7 +29,7 @@ At the moment there are the following developed web applications to showcase Gen
 - **Image generation and editing tool**: https://github.com/GenAI-interaction-research/qualtrics_image_gen_edit
 
 In the central ".github" repository there are the following documents:
-- A **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in this paper https://github.com/GenAI-interaction-research/.github/blob/main/250424_GenAI_web_apps_v0.1.pdf.
+- A **rule template** that can be integrated into an AI-augmented IDE like Cursor or Windsurf. This rule template instructs the AI to be particularly helpful for designing secure GenAI web applications that are oriented on the approach discussed in the mentioned method paper.
 
 Other researchers are encouraged to share and provide their working web applications as well as other ideas and work that might be of help for other researcher.
 
