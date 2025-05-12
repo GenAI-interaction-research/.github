@@ -20,6 +20,9 @@ Developing and studying GenAI-powered web applications often involves overcoming
 
 This profile "GenAI-interaction-research" is organized in repositories. The repository **".github"** is a central repository that entails all relevant information beyond individual applications. The other repositories contain individual web applications that has been developed and that can be used by other researchers. Particular instructions in how to implement the different individual applications can be found in each of the individual repositories.
 
+- A **Snippet Generator** to help you get started with your implementation. You can access it here:
+[Snippet Generator](https://genai-interaction-research.github.io/script_generator/)
+
 At the moment there are the following developed web applications:
 - **Recommendation agent**: https://github.com/GenAI-interaction-research/podcast_recommender
 - **Image generation and editing tool**: https://github.com/GenAI-interaction-research/qualtrics_image_gen_edit
