@@ -39,6 +39,7 @@ Other researchers are encouraged to share and provide their working web applicat
 
 Feel free to explore the current examples and resources.
 
+* **Check Out the Tools:** It is recommended to start with the "Comprehensive Guide" that provides general design information and key questions to answer at the beginning. The code snippet tool does also provide more information on practical implementations.
 * **Check Out the Examples:** Explore the folders and repositories to see the showcases and tutorials.
 * **Join the Conversation:** [Discussions](https://github.com/orgs/GenAI-interaction-research/discussions): Join the conversation, ask questions, or share ideas.
 * **Report Issues or Requests:** Use the Issue function in each individual repository to report bugs, request features, or track development.
